@@ -1,14 +1,14 @@
 # Akatsuki
 
-[![Latest Version](https://img.shields.io/github/release/aurimasniekis/akatsuki.svg?style=flat-square)](https://github.com/tasksuki/serializer/releases)
+[![Latest Version](https://img.shields.io/github/release/aurimasniekis/akatsuki.svg?style=flat-square)](https://github.com/aurimasniekis/akatsuki/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/aurimasniekis/akatsuki.svg?style=flat-square)](https://packagist.org/packages/tasksuki/serializer)
+[![Total Downloads](https://img.shields.io/packagist/dt/aurimasniekis/akatsuki.svg?style=flat-square)](https://packagist.org/packages/aurimasniekis/akatsuki)
 
 [![Email](https://img.shields.io/badge/email-aurimas@niekis.lt-blue.svg?style=flat-square)](mailto:aurimas@niekis.lt)
 
 The Akatsuki a PSR-4 Namespace prefix adder for PHPStorm.
 
-![Screenshoot](https://lh6.googleusercontent.com/HwgfeBZa9DWv-QdAeLJOWTCImXNw2IPEjjBPLFhDGXTTbTqyGjj8oxzYJl0HIoQLnYBg2Fz86etqOKU=w3840-h2110-rw)
+![Screenshoot](http://i.imgur.com/CSpGgMh.gif)
 
 ## Install
 
