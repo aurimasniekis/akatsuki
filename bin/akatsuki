@@ -1,0 +1,18 @@
+#!/usr/bin/php
+<?php
+
+$composer = __DIR__ . '/../../../autoload.php';
+$local    = __DIR__ . '/../vendor/autoload.php';
+
+if (file_exists($composer)) {
+    require_once $composer;
+} elseif (file_exists($local)) {
+    require_once $local;
+} else {
+    die('No composer autoload.php file found around');
+}
+
+use Akatsuki\Application;
+
+$app = new Application();
+$app->run();

@@ -1,0 +1,23 @@
+{
+    "name": "aurimasniekis/akatsuki",
+    "type": "tool",
+    "description": "PSR-4 namespace detector for PHPStorm IDE",
+    "keywords": ["psr4", "psr-4", "phpstorm", "namespace", "detector", "akatsuki"],
+    "homepage": "https://github.com/aurimasniekis/akatsuki",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aurimas Niekis",
+            "email": "aurimas@niekis.lt"
+        }
+    ],
+    "bin": ["bin/akatsuki"],
+    "require": {
+        "symfony/console": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Akatsuki\\": "src"
+        }
+    }
+}
