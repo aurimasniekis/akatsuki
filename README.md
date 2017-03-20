@@ -8,8 +8,6 @@
 
 The Akatsuki a PSR-4 Namespace prefix adder for PHPStorm.
 
-![Screenshoot](http://i.imgur.com/CSpGgMh.gif)
-
 ## Install
 
 Via Composer
